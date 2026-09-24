@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👋 Hi, I'm Gauri Raghav
 
-<!--
-**GauriRaghav56/GauriRaghav56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd Year B.Tech Computer Science & Engineering Student**
 
-Here are some ideas to get you started:
+📍 Uttar Pradesh, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 🏫 IFTM University, Moradabad
+- 📊 CGPA: **8.7/10**
+- 💻 Interested in Software Development
+- 🧠 Passionate about Problem Solving and Logic Building
+- 🚀 Currently improving my programming and development skills
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming Languages
+
+- C
+- Python
+- Java
+- C++
+
+### 🌐 Web Development
+
+- HTML5
+- CSS
+
+### 📚 Concepts
+
+- Data Structures & Algorithms (Basics)
+- Logic Building
+
+### 🔧 Tools
+
+- VS Code
+- Virtual Labs
+
+---
+
+## 🚀 Projects
+
+### 🧮 Simple Calculator
+A basic calculator built using **C** for arithmetic operations.
+
+### ✅ To-Do List
+A beginner Python project for managing tasks.
+
+### 🎯 Number Guessing Game
+A simple Python game created to practice programming logic.
+
+### 🔳 QR Code Generator
+A Python project for generating QR codes.
+
+### ✊ Rock Paper Scissors
+A Python-based game using conditional statements and logic.
+
+### 🌐 Personal Portfolio Website
+A basic portfolio website created using **HTML**.
+
+### 📝 Registration Form
+A registration form created using **HTML**.
+
+---
+
+## 📜 Certifications
+
+- 🏆 Jaipuria Quiz — C Language
+- 🔐 Cybersecurity Certificate
+- 💼 Walmart Global Tech — Advanced Software Engineering Job Simulation
+- 💻 C++ Programming Certificate
+- 🏅 Param Rajya Certificate
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Python
+Java
+Web Development
+Data Structures & Algorithms
+Problem Solving
